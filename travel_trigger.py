@@ -116,7 +116,7 @@ def read_test_links(triger_num):
             if index_num == num[0]:
                 links.append(num[1])
             
-    print(links)
+    #print(links)
     return links
 
 

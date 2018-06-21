@@ -122,17 +122,6 @@ def read_test_links(triger_num):
 
 
 
-
-
-
-#countries = read_countries()#countries.txtを読み込み
-#pages = read_pages()#pages.txtを読み込み
-
-
-#fixed_pages = pullout_countries(pages,countries)#国名であればその国名を抜き出す
-#write_pages(fixed_pages)#pages.txtを書き込み
-
-
 print("\n--------\nWhich countries do you wanna go to ?\nPlease set a trigger.\n")
 triger = input("-------- trigger : ")
 

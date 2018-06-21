@@ -133,8 +133,8 @@ def read_test_links(triger_num):
 #write_pages(fixed_pages)#pages.txtを書き込み
 
 
-print("\n--------\nWhich countries do you wanna go to ?\nPlease set a triger.\n")
-triger = input("-------- triger : ")
+print("\n--------\nWhich countries do you wanna go to ?\nPlease set a trigger.\n")
+triger = input("-------- trigger : ")
 
 pages = read_pages()#pages.txtを読み込み
 #test_pages = read_test_pages()#test_pages.txtを読み込み
